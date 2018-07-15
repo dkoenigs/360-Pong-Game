@@ -22,4 +22,4 @@ Bugs/Future Improvements:
 
 http://apps.introcs.com/danielkoenig/comp80h-game/game.html 
 
-<img src="https://github.com/dkoenigs/360-Pong-Game/blob/master/360DegreePong.png?raw=true" width="450" height="450" title="Conversion Calculator Screenshot">
+<img src="https://github.com/dkoenigs/360-Pong-Game/blob/master/360DegreePong.png?raw=true" width="550" height="550" title="Conversion Calculator Screenshot">
