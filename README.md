@@ -1,18 +1,25 @@
 # 360-Pong-Game
 
+_360° Pong is a game designed to be played by the visually impaired. Using spatial surround sound, the player must rotate their paddle to reflect the ball back._
+\
+\
+Instructions:
+* Open the link found below using Google Chrome or Modzilla Firefox from a Desktop or Smartphone
+* Use [<] and [>] to rotate the paddle (Desktop Browser) | Hold device flat, face up and rotate device around Y-axis (Smarphone Browser)
+* Face the paddle into the oncoming ball to bounce it back and increment the score
+* Speed of the ball increases as the score becomes higher
+* Upon failing, the game will be paused. To resume, press <p> (Desktop Browser) | tap the screen (Smartphone Browser)
+
+Code:
+* Layout of canvas is in HTML and CSS
+* Game is written in TypeScript using Pixi JS creation engine
+* Spatial sound is achieved using Howler JS 3rd party plugin
+* Google Chrome and Modzilla Firefox smartphone API is used to handle smartphone events
+
+Bugs/Future Improvements:
+* As the speed of incoming balls increases, the sound is not calibrated to increase at the same frequency
+* Smartphone orientation event is not correctly calibrated with the location of the spatial sound, giving incorrect audio guidance when used using a smarphone browser
+
 http://apps.introcs.com/danielkoenig/comp80h-game/game.html 
 
-360° Pong is a game I created using TypeScript, JavaScript and Html. 
-In this game balls are fired at the center paddle in a random order, 
-increasing in speed as your score counter increases. 
-The user is able to rotate the center paddle either to the left, 
-or right in order to align with the ball and reflect it back. 
-The game works through desktop and phone browsers. Left, 
-right arrow keys and ‘p’ key are bound to rotate the paddle left, 
-right, and to start game following a loss respectively. 
-When accessing the game through a smart device, 
-orientation of the paddle can be change by rotating around the y axis and 
-the game can be started following a loss by tapping anywhere on the screen. 
-The 3rd party plugins I used were Pixi JS for the graphics, 
-Howler JS for the spatial audio and Google Chrome web API for 
-the smartphone orientation and touch events.
+<img src="https://github.com/dkoenigs/360-Pong-Game/blob/master/360DegreePong.png?raw=true" width="450" height="450" title="Conversion Calculator Screenshot">
