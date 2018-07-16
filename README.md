@@ -1,6 +1,6 @@
 # 360-Pong-Game
 
-_360° Pong is a game designed to be played by the visually impaired. Using spatial surround sound, the player must rotate their paddle to reflect the ball back. Made for Maze Day 2018, an expo showcasing games for children with visual impairments. _
+_360° Pong is a game designed to be played by the visually impaired. Using spatial surround sound, the player must rotate their paddle to reflect the ball back. Made for Maze Day 2018, an expo showcasing games for children with visual impairments._
 \
 \
 Instructions:
