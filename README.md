@@ -4,7 +4,7 @@ _360° Pong is a game designed to be played by the visually impaired. Using spat
 \
 \
 Instructions:
-* Open the link found below using Google Chrome or Modzilla Firefox from a Desktop or Smartphone
+* Open the link found below using Google Chrome or Mozilla Firefox from a Desktop or Smartphone
 * Use [<] and [>] to rotate the paddle (Desktop Browser) | Hold device flat, face up and rotate device around Y-axis (Smarphone Browser)
 * Face the paddle into the oncoming ball to bounce it back and increment the score
 * Speed of the ball increases as the score becomes higher
@@ -14,7 +14,7 @@ Code:
 * Layout of canvas is in HTML and CSS
 * Game is written in TypeScript using Pixi JS creation engine
 * Spatial sound is achieved using Howler JS 3rd party plugin
-* Google Chrome and Modzilla Firefox smartphone API is used to handle smartphone events
+* Google Chrome and Mozilla Firefox smartphone API is used to handle smartphone events
 
 Bugs/Future Improvements:
 * As the speed of incoming balls increases, the sound is not calibrated to increase at the same frequency
