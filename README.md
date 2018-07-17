@@ -8,7 +8,7 @@ Instructions:
 * Use [<] and [>] to rotate the paddle (Desktop Browser) | Hold device flat, face up and rotate device around Y-axis (Smarphone Browser)
 * Face the paddle into the oncoming ball to bounce it back and increment the score
 * Speed of the ball increases as the score becomes higher
-* Upon failing, the game will be paused. To resume, press <p> (Desktop Browser) | tap the screen (Smartphone Browser)
+* Upon failing, the game will be paused. To resume, press [p] (Desktop Browser) | tap the screen (Smartphone Browser) 
 
 Code:
 * Layout of canvas is in HTML and CSS
