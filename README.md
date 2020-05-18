@@ -21,6 +21,7 @@ Bugs/Future Improvements:
 * Smartphone orientation event is not correctly calibrated with the location of the spatial sound, giving incorrect audio guidance when used using a smarphone browser
 
 **NOTE:**
+<br>
 I developed this game after the conclusion of COMP 110H which was taught in TypeScript. I continued to use libraries created by Professor Kris Jordan (UNC) in this project as well as methods to compile TypeScript code to a single script file using webpack. The code therefore has several import errors, but the below link still hosts a live/working version of the game.
 
 http://apps.introcs.com/danielkoenig/comp80h-game/game.html 
